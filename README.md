@@ -1,5 +1,5 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+### Hi there👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-hadi1&show_icons=true&theme=radical)
 <!--
 **Ali-hadi1/Ali-hadi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
